@@ -1,0 +1,20 @@
+{
+  "name": "sandeep-frontend-skill",
+  "interface": {
+    "displayName": "Sandeep Frontend Skill"
+  },
+  "plugins": [
+    {
+      "name": "sandeep-frontend",
+      "source": {
+        "source": "local",
+        "path": "./plugins/sandeep-frontend"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Developer Tools"
+    }
+  ]
+}

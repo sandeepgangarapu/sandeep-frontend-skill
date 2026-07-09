@@ -1,0 +1,4 @@
+interface:
+  display_name: "Sandeep Frontend"
+  short_description: "Sandeep's front-end taste"
+  default_prompt: "Use $sandeep-frontend to design this front end in Sandeep's light, polished, subject-specific style."
