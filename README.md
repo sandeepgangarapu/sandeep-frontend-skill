@@ -89,6 +89,10 @@ Use $sandeep-frontend to redesign this dashboard in a light, polished, subject-s
 Use /sandeep-frontend to make this data analysis page feel editorial but not generic.
 ```
 
+## Example Output
+
+- [AI Adoption Divide](examples/ai-adoption-divide.html): a single-file HTML example showing the skill's light editorial analysis mode for a data-analysis topic.
+
 ## Development
 
 Validate the skill:
