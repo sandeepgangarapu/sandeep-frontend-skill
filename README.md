@@ -1,6 +1,6 @@
 # Sandeep Frontend Skill
 
-Sandeep's personal front-end design skill for AI coding agents. It guides agents toward light-first, polished, subject-specific interfaces with compact hierarchy, useful pills, careful typography, strong copy, and non-generic design judgment.
+Sandeep's personal front-end and visual artifact design skill for AI coding agents. It guides agents toward light-first, polished, subject-specific apps, websites, dashboards, HTML reports, slides, visualizations, tools, and UI with compact hierarchy, useful controls, careful typography, strong copy, and non-generic design judgment.
 
 The skill declares its inspirations once: Anthropic's frontend-design skill for its subject-grounded process, and Every.to for light editorial/product taste. The working guidance is Sandeep's own front-end language.
 
@@ -86,12 +86,12 @@ Use $sandeep-frontend to redesign this dashboard in a light, polished, subject-s
 ```
 
 ```text
-Use /sandeep-frontend to make this data analysis page feel editorial but not generic.
+Use /sandeep-frontend to design an HTML report, slide deck, or visualization that feels polished and specific to the topic.
 ```
 
 ## Example Output
 
-- [AI Adoption Divide](examples/ai-adoption-divide.html): a single-file HTML example showing the skill's light editorial analysis mode for a data-analysis topic.
+- [AI Adoption Divide](examples/ai-adoption-divide.html): a single-file HTML example showing one report-style use of the skill. This is only one mode; the skill is also intended for apps, dashboards, slides, visualizations, and other front-end artifacts.
 
 ## Development
 
